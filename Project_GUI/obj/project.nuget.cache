@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "fVHrqWOP08Hils8yz9kJhI7OwYcDKL2MSlgXJOVvdHpWUVGo7Ac0FF1v3FnBIqXQtRtYCP8fugNJ7CxkETG1FQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kachv\\Downloads\\GUIProject-main\\Project_GUI\\Project_GUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kachv\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.1\\communitytoolkit.mvvm.8.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
